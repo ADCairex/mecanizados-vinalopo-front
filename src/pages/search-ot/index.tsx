@@ -50,7 +50,7 @@ export default function OTView() {
             <Card>
               <CardHeader>
                 <CardTitle className="text-[#159C47]">
-                  Materials & Services
+                  Compras
                 </CardTitle>
               </CardHeader>
               <CardContent>

@@ -33,10 +33,10 @@ export default function PurchaseContainer() {
     <Table>
       <TableHeader>
         <TableRow>
-          <TableHead>Type</TableHead>
-          <TableHead>Description</TableHead>
-          <TableHead>Quantity</TableHead>
-          <TableHead>Cost</TableHead>
+          <TableHead>Tipo</TableHead>
+          <TableHead>Descripción</TableHead>
+          <TableHead>Cantidad</TableHead>
+          <TableHead>Precio</TableHead>
         </TableRow>
       </TableHeader>
       <TableBody>
